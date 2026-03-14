@@ -1,0 +1,14 @@
+numpy==2.4.2
+pandas==3.0.1
+scikit-learn==1.8.0
+imbalanced-learn==0.14.1
+joblib==1.5.3
+boruta==0.4.3
+torch==2.1.2
+transformers==4.37.2
+datasets==4.6.0
+peft==0.8.2
+accelerate==0.28.0
+llama-cpp-python==0.3.16
+rdkit==2025.9.5
+torch-geometric==2.7.0
