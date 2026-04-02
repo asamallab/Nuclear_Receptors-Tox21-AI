@@ -11,7 +11,7 @@
 
 This repository is associated with the manuscript:  
 Nikhil Chivukula<sup>#</sup>, Jaisubasri Karthikeyan<sup>#</sup>, Harshini Thangavel<sup>#</sup>, Shreyes Rajan Madgaonkar<sup>#</sup>, and Areejit Samal\*,  
-*Benchmarking Artificial Intelligence Models for Predicting Nuclear Receptor Activity from Tox21 Assays*  
+*[Benchmarking Artificial Intelligence Models for Predicting Nuclear Receptor Activity from Tox21 Assays]( https://doi.org/10.64898/2026.03.20.713297)*, bioRxiv, 2026.03.20.713297 (2026).
 (\* Corresponding author: [asamal@imsc.res.in](mailto:asamal@imsc.res.in))  
 (<sup>#</sup> Joint-First authors)
 
@@ -96,4 +96,4 @@ pip install -r requirements.txt
 
 If you use the code or data in this repository, please cite the following manuscript:  
 Nikhil Chivukula, Jaisubasri Karthikeyan, Harshini Thangavel, Shreyes Rajan Madgaonkar, and Areejit Samal,  
-*Benchmarking Artificial Intelligence Models for Predicting Nuclear Receptor Activity from Tox21 Assays* 
+*[Benchmarking Artificial Intelligence Models for Predicting Nuclear Receptor Activity from Tox21 Assays]( https://doi.org/10.64898/2026.03.20.713297)*, bioRxiv, 2026.03.20.713297 (2026).
