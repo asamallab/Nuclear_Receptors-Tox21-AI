@@ -46,7 +46,7 @@ if hasattr(torch, 'set_float32_matmul_precision'):
     torch.set_float32_matmul_precision('high')
 
 # ARGUMENTS
-if len(sys.argv) != 6:
+if len(sys.argv) != 7:
     print(
         "Usage: python3 molformer_edc_optimized.py "
         "<train_csv> <val_csv> <test_csv> <epoch_log> <output_txt> <model_path>"
